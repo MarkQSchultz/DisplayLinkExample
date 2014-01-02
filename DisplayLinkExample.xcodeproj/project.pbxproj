@@ -395,6 +395,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DisplayLinkExample/DisplayLinkExample-Prefix.pch";
 				INFOPLIST_FILE = "DisplayLinkExample/DisplayLinkExample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -408,6 +409,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DisplayLinkExample/DisplayLinkExample-Prefix.pch";
 				INFOPLIST_FILE = "DisplayLinkExample/DisplayLinkExample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -474,6 +476,7 @@
 				0438D5F01875E09200ACA0D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0438D5F11875E09200ACA0D7 /* Build configuration list for PBXNativeTarget "DisplayLinkExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +485,7 @@
 				0438D5F31875E09200ACA0D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
